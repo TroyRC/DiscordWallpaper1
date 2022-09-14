@@ -1,0 +1,2 @@
+# DiscordWallpaper1
+SpotifyControls
